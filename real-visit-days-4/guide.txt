@@ -1,0 +1,9 @@
+Use probability of arrival day as synthetic instance.assign_attributes([0.25,0.5,0.75,0.9,1])
+
+And for assign_visit_days_3 function 
+
+
+Same first day visits as real but for some instances more visits for later visits 
+
+ 
+

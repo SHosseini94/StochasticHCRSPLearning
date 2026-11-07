@@ -44,7 +44,7 @@ if __name__=="__main__":
     config_path = os.path.join(BASE_DIR, 'configuration')
 
     for config_file in os.listdir(config_path):
-        if config_file.endswith("config-learning.ini"):
+        if config_file.endswith(".ini"):
             config_path_full= os.path.join(config_path, config_file)
 
             config = configparser.ConfigParser()
